@@ -1,0 +1,9 @@
+clerk-backend-api
+pydantic
+pydantic-settings
+sqlalchemy
+python-dotenv
+cryptography
+psycopg2
+fastapi
+uvicorn
