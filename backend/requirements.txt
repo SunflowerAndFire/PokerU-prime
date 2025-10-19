@@ -1,9 +1,9 @@
-clerk-backend-api
-pydantic
+fastapi[standard]
 pydantic-settings
-sqlalchemy
-python-dotenv
-cryptography
-psycopg2
-fastapi
-uvicorn
+asyncpg
+sqlmodel
+alembic
+pyjwt
+redis
+resend
+itsdangerous
